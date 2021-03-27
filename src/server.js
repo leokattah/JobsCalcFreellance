@@ -4,6 +4,9 @@ const routes = require("./routes");
 //Colocando o a função express() na variável que chamei de server
 const server = express()
 
+//Usando template engine
+server.set("view engine" , "ejs");
+
 //habilitar arquivos estáticos. O comando abaixo sugere a criação de todas as rotas que estão na pasta public de forma automática. 
 server.use(express.static("public"));
 
