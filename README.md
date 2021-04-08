@@ -1,5 +1,7 @@
+
 <h1 align="center">
   <img alt="JobsCalc" title="JobsCalc" src="https://i.imgur.com/Veqm7Gh.png" width="220px" />
+  ![ProjetoFinalizado](https://user-images.githubusercontent.com/64365302/114058687-10c17000-986a-11eb-93eb-99e1d8bfceb3.png)
 </h1>
 
 <p align="center">
