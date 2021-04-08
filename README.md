@@ -1,8 +1,9 @@
-
 <h1 align="center">
   <img alt="JobsCalc" title="JobsCalc" src="https://i.imgur.com/Veqm7Gh.png" width="220px" />
 </h1>
-  ![ProjetoFinalizado](https://user-images.githubusercontent.com/64365302/114058687-10c17000-986a-11eb-93eb-99e1d8bfceb3.png)
+
+![ProjetoFinalizado](https://user-images.githubusercontent.com/64365302/114058862-38183d00-986a-11eb-85ed-55f4efa75f6a.png)
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
