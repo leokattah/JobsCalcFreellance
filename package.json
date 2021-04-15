@@ -22,7 +22,8 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leokattah/Rocketseat_Maratona_Discover_2a_edicao.git"
+    "url": "git+https://github.com/leokattah/Rocketseat_Maratona_Discover_2a_edicao.git",
+    "start": "node src/server.js"
   },
   "bugs": {
     "url": "https://github.com/leokattah/Rocketseat_Maratona_Discover_2a_edicao/issues"
