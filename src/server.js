@@ -18,4 +18,7 @@ server.use(express.urlencoded({ extended: true }))
 // routes
 server.use(routes)
 
-server.listen(3000, () => console.log('rodando'))
+const porta = process.env.PORT || 3000;
+
+// no final, altere para
+server.listen(porta, () => console.log("rodando"))
