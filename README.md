@@ -50,3 +50,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
 "# Rocketseat_Maratona_Discover_2a_edicao" 
 
+Veja a aplicação no seu navegador: https://jobscalfreelance.herokuapp.com/
